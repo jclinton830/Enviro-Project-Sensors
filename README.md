@@ -19,10 +19,10 @@ The backend embedded software uses a server to communicate the data collected to
 
 # Data Collected
 
-CO2 level
-Temperature
-Humitdity
-Lighting 
-Motion
+* CO2 level
+* Temperature
+* Humitdity
+* Lighting 
+* Motion
 
 
